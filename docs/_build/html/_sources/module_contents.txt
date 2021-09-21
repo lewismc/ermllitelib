@@ -1,9 +1,0 @@
-Module contents
-=================
-
-.. automodule:: ermllitelib
-    :members:
-    :undoc-members:
-    :show-inheritance:
-
-
